@@ -1,0 +1,1 @@
+Select * from table 2 name where salary between 50000 and 100000
