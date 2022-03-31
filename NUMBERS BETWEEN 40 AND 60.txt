@@ -1,0 +1,14 @@
+PRINT NUMBERS BETWEEN 40 AND  60 
+
+public class hello {
+
+	public static void main(String[] args) {
+		int i; 
+		  int number=60;  
+		  for(i=40;i<=number;i++){    
+			  System.out.println(i);  
+		  }    
+		  
+	}
+
+}
